@@ -10,6 +10,10 @@ This is the git repository for the game. Here you will find all of the necessary
 
 In order to install the application you will need to download the version folder (example: ALPHA 0-1-3). Execute the setup script from the folder, then copy Mono and planeShooter_Data folders into the application folder.
 
+### Updates
+1. Released Alpha 0.1.3
+2. Planning Alpha 0.2.1 to be released on October the 14th (2018), which should be this Sunday. Expect better shaders, more installation availability, and more enemies!
+
 That should be it.
 
 >Thank you for reading.
