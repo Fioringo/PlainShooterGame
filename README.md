@@ -1,3 +1,13 @@
+---
+title: "README"
+author: "Andrey Shtukenberg"
+output: 
+  html_document:
+     css: /css/glob.css
+     self_contained: no
+
+---
+
 # PlainShooterGame
 This is a plain plane shooter game, made to recreate the feel and style of mobile games.
 
